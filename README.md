@@ -1,7 +1,9 @@
 # React + TypeScript + Tailwindcss
 
 ## How to run
-command : npm run dev
++ cd video-player // enter the video player directory.
++ npm i // install node packages.
++ npm run dev // you are ready to go :)
 
 Note: Use a mp4 video hosted video link in the url bar.
 
